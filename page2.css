@@ -291,16 +291,8 @@ h1 {
     }
 }
 
-#gettingCloseCard {
-    cursor: pointer;
-}
-
 #beginningCard,
-#gettingCloseCard {
-    cursor: pointer;
-}
-
-#beginningCard,
+#gettingCloseCard,
 #andThenCard {
     cursor: pointer;
 }
